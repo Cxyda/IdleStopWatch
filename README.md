@@ -1,5 +1,5 @@
 # IdleStopWatch
-An idle time stop watch for Unity3D
+An idle time stopwatch for Unity3D
 
 This tiny project measures and accumulates the time you have to wait on Unity3D.
 
