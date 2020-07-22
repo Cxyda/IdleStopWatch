@@ -93,7 +93,7 @@ namespace ExternalLib.IdleCounter.Editor
 		private static string GetProjectName()
 		{
 			string path = Application.dataPath;
-			string[] tokens = path.Split("/"[0]);
+			string[] tokens = path.Split('/');
 
 			return tokens[tokens.Length - 2];
 		}
